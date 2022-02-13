@@ -71,4 +71,4 @@ async def on_message(message):
 
 
 
-client.run('YOUR DISCORD TOKEN')
+client.run('ODIzNzY3NDAyNzc2NDk0MTMw.YFlnLQ.rScSPQWu0fABy9XaDobTTFVWRNk')
